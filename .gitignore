@@ -17,3 +17,6 @@ dist/
 
 # Logs
 *.log
+
+# Keep assets folder
+!assets/

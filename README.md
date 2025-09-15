@@ -2,6 +2,12 @@
 
 A modern React dashboard for exploring and comparing Large Language Models (LLMs). Built with TypeScript, React, and Parcel for fast development and optimal performance.
 
+## 📸 Demo
+
+![LLMs Database Dashboard](assets/images/demo.png)
+
+*Interactive dashboard showing LLM models organized by performance tiers with vendor-specific branding*
+
 ## ✨ Features
 
 - **Interactive Dashboard**: Clean, modern interface to browse LLM models
